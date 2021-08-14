@@ -1,0 +1,298 @@
+body {
+  font-family: "Lato", sans-serif;
+}
+.header-bg {
+  background-image: url(hero-credit-zeyn-afuang.webp);
+  width: 1440px;
+  height: 680px;
+}
+body .container,
+.beige-bg .container {
+  max-width: 1470px;
+}
+header .container,
+.main .container,
+.last-main .container,
+.footer-bg .container {
+  max-width: 970px;
+}
+.navbar-links {
+  display: flex;
+  column-gap: 38px;
+}
+.navbar-links a {
+  font-size: 16px;
+  font-weight: 500;
+  color: #fff;
+}
+.navbar-links a:hover {
+  text-decoration: none;
+}
+.header-padding {
+  padding-top: 28px;
+}
+.header-button {
+  background-image: url(lefc-logo.svg);
+  background-repeat: no-repeat;
+  border-radius: 4px;
+  background-color: #0e6248;
+  width: 96px;
+  height: 32px;
+  background-position-x: 80%;
+  background-position-y: 50%;
+  padding-right: 39px;
+  padding-bottom: 4px;
+  border: none;
+}
+.header-button-style {
+  font-size: 16px;
+  font-weight: bold;
+  color: #fff;
+}
+.header-text {
+  text-align: center;
+  font-size: 36px;
+  font-weight: bold;
+  line-height: 1.11;
+  color: #fff;
+  padding-top: 198px;
+}
+.header-green-button {
+  border-radius: 4px;
+  background-color: #0e6248;
+  width: 200px;
+  height: 40px;
+  border: none;
+}
+.header-white-button {
+  border-radius: 4px;
+  background-color: rgba(255, 255, 255, 0.85);
+  font-size: 16px;
+  color: #0e6248;
+  width: 128px;
+  height: 40px;
+  border: none;
+}
+.header-button-content {
+  display: flex;
+  justify-content: center;
+  column-gap: 44px;
+  margin-left: 25px;
+}
+.beige-bg {
+  background-color: #fbf8f6;
+  height: 120px;
+}
+.beige-text {
+  margin-top: 38px;
+}
+.main-title {
+  font-size: 12px;
+  font-weight: 800;
+  color: #0e6248;
+}
+.main {
+  padding-top: 120px;
+}
+.main-text {
+  font-size: 20px;
+  font-weight: 800;
+  color: #272727;
+}
+.grey-border {
+  width: 280px;
+  height: 408px;
+  border-radius: 8px;
+  border: solid 1px #ddd;
+  background-color: #fff;
+}
+.news-title {
+  font-size: 18px;
+  font-weight: bold;
+  color: #272727;
+}
+.news-text {
+  font-size: 16px;
+  line-height: 1.38;
+  color: #272727;
+}
+.news-content {
+  display: flex;
+  flex-direction: column;
+  margin-left: 24px;
+}
+.button-width-height {
+  width: 120px;
+  height: 40px;
+  margin-left: 56px;
+}
+.main-news {
+  margin-top: 88px;
+}
+.news-img {
+  position: relative;
+  left: 24px;
+  bottom: 22px;
+}
+.beige-bg-short-content {
+  border-radius: 8px;
+  background-color: #fbf8f6;
+  margin-top: 120px;
+  height: 128px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  column-gap: 145px;
+}
+.beige-bg-short-content p {
+  margin-bottom: 0px;
+}
+.beige-bg-short-content .number {
+  font-size: 24px;
+  font-weight: 800;
+  color: #272727;
+}
+.beige-bg-short-content .about {
+  font-size: 16px;
+  font-weight: 500;
+  color: #272727;
+}
+.full-bg-img {
+  background-image: url(section-gallery.webp);
+  width: 1440px;
+  height: 382px;
+  background-position-x: 70%;
+  margin-top: 70px;
+}
+.last-main-question {
+  font-size: 24px;
+  font-weight: 800;
+  color: #272727;
+}
+.last-main-text {
+  font-size: 16px;
+  line-height: 1.38;
+  color: #272727;
+}
+.white-bg {
+  width: 380px;
+  height: 340px;
+  border-radius: 4px;
+  box-shadow: 0 0 20px 0 rgba(16, 114, 83, 0.16);
+  border: solid 1px #fbf8f6;
+  background-color: #fff;
+}
+.inputs {
+  border-radius: 4px;
+  border: solid 1px #ddd;
+  background-color: #fff;
+  width: 332px;
+  height: 40px;
+}
+.input-group-width {
+  width: 332px;
+  height: 40px;
+}
+.input-button {
+  border: 1px solid #ced4da;
+  font-size: 16px;
+  font-weight: bold;
+  color: #272727;
+  height: 40px;
+}
+.last-main-button {
+  background-image: url(lefc-logo.svg);
+  width: 120px;
+  height: 40px;
+  border-radius: 4px;
+  background-color: #0e6248;
+  background-repeat: no-repeat;
+  background-position-x: 80%;
+  background-position-y: 60%;
+  padding-right: 30px;
+  margin-top: 29px;
+  border: none;
+}
+.last-main {
+  margin-top: 100px;
+}
+.input-width {
+  height: 40px;
+}
+.reading-resources {
+  margin-top: 160px;
+}
+.button-width {
+  width: 112px;
+  height: 40px;
+}
+.gray-border {
+  width: 280px;
+  height: 268px;
+  border-radius: 8px;
+  border: solid 1px #ddd;
+  background-color: #fff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.h3-title {
+  font-size: 18px;
+  font-weight: bold;
+  color: #272727;
+}
+.green-bg {
+  width: 940px;
+  height: 200px;
+  border-radius: 8px;
+  background-color: #0e6248;
+  margin-top: 120px;
+}
+.email {
+  width: 280px;
+  height: 40px;
+  border-radius: 4px;
+  border: solid 1px #ddd;
+  background-color: #fbf8f6;
+  font-size: 16px;
+  font-style: italic;
+  color: #272727;
+}
+.email-button {
+  width: 120px;
+  height: 40px;
+  font-size: 16px;
+  font-weight: bold;
+  color: #0e6248;
+  border-radius: 4px;
+  background-color: rgba(255, 255, 255, 0.85);
+}
+.email-input-button {
+  display: flex;
+  justify-content: center;
+}
+.helps-us {
+  font-size: 24px;
+  font-weight: 800;
+  color: #fff;
+}
+.donec-turpis {
+  font-size: 16px;
+  line-height: 1.38;
+  color: #fff;
+}
+.footer-bg {
+  background-color: #272727;
+  height: 200px;
+  margin-top: 104px;
+}
+.footer-text {
+  font-size: 12px;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #fff;
+}
+.footer-content {
+  padding-top: 40px;
+}
